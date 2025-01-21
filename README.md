@@ -1,4 +1,8 @@
-# Cat API Testing Lab
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Cat API Testing Lab
+
+| Title               | Type | Duration | Author               |
+|---------------------|------|----------|----------------------|
+| Cat API Testing Lab | Lab  | 3:00     | Suresh Melvin Sigera |
 
 In this hands-on lab, students will test a Django REST API for a Cat Collector application. The lab covers testing CRUD
 operations, relationships between models (`Cats`, `Toys`, `Feedings`), and proper authentication/authorization flows. 
